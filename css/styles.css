@@ -1,0 +1,86 @@
+body  
+{    
+    background-color:#58595B;  
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+    background: linear-gradient(115deg,#666,#ccc);
+    
+}  
+.login{   
+    position: absolute;  
+    padding: 60px 80px;
+    padding-bottom: 0px;
+    width: 25%;
+    height: 65%;
+    background: #feffff;  
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 3px;
+}
+a{
+    color: #44ace4;
+    float: right;
+    margin-top: 12px;
+    margin-right: 16px
+    
+}   
+
+h3{
+    font-size: 26px;
+    font-weight: unset;
+    text-align: center;
+    color: #747272;
+}
+
+#Uname{  
+    height: 33px;
+    width: 100%;
+    display: block;
+    margin-top: 40px;
+    border: thin solid #cbcbcb;
+    box-sizing: border-box;
+    padding: 0 8px;
+    
+    
+}  
+#Pass{  
+    height: 33px;
+    width: 100%;
+    display: block;
+    margin-top: 14px;
+    border: thin solid #cbcbcb;
+    box-sizing: border-box;
+    padding: 0 8px;
+      
+}  
+#log{  
+    height: 45px;
+    width: 100%;
+    display: block;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 60px;
+    margin-left: 0;
+    color: #feffff;
+    background-color: #44ace4;
+    border-color: #feffff;
+    border-radius: 3px;
+}   
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+  }
+
+.about{
+    float: right;
+    margin-top: 12px;
+    margin-right: 16px;
+    color: #44ade2;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: xx-small;
+
+}
